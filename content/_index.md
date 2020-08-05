@@ -9,4 +9,6 @@ intro_image_hide_on_mobile: true
 
 ## Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
 
-tetsing the cms 
+tetsing the cms
+
+how quick is this? 
