@@ -1,50 +1,23 @@
 ---
-title: 'About'
-menu: 'main'
----
+title: About
+menu:
+  main: {}
 
+---
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+## **Jessica Chevis, GPC, MA**
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+**Owner/Principal**
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Jessica is an experienced grant professional who is motivated by engaging with people and organizations that are doing difficult but necessary work to make our world a more just, equitable, and joyous place to live. For the past eight years, she has dedicated her career to helping arts organizations and institutions of higher education generate support for their programs, operations, and capital projects from foundation, corporate, government, and individual donors. Jessica has worked with Louisiana State University, the LSU Foundation, the UC Berkeley Art Museum and Pacific Film Archive, UC Berkeley’s Cal Performances, and the Contemporary Arts Center New Orleans to craft nearly a hundred successful proposals that have secured more than $18 million in funding.
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Jessica, a seventh generation New Orleanian, earned her B.A. in mass communication from Loyola University New Orleans and her M.A. in arts administration from the University of New Orleans. At present, she is the only Louisiana resident to hold the Grant Professional Certified (GPC) credential administered by the Grant Professionals Certification Institute. She is an active member of the Grant Professionals Association and has served as a grant panelist for the Arts Council of Greater Baton Rouge. In her free time, Jessica enjoys hanging out with her _very_ active rescue pup, getting lost in good books (mainly novels), experiencing art of all kinds, traveling, and volunteering as a literacy tutor.
 
-## Postquam tamen
+For more information about Jessica’s experience and qualifications, please visit her LinkedIn profile.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## **Why Marigold?**
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+The marigold flower has many meanings, but Jessica’s favorite is that it symbolizes passion, creativity, and warmth—all traits she believes are essential to building meaningful relationships and producing compelling work.
