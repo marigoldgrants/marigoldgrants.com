@@ -5,4 +5,4 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 
 ---
-# Our team can help you with:
+# Services to grow your organization's grant funding
