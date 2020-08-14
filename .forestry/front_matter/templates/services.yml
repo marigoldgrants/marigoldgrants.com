@@ -14,3 +14,5 @@ fields:
 - type: boolean
   name: intro_image_hide_on_mobile
   label: intro_image_hide_on_mobile
+pages:
+- content/services.md
