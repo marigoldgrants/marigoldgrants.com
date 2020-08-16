@@ -4027,6 +4027,7 @@ ol {
   .header .container {
     display: flex;
     justify-content: space-between;
+    padding: 10px 0 10px 0;
     align-items: center; }
   .header.header-absolute {
     position: absolute;
@@ -4480,8 +4481,7 @@ ol {
 
 .intro-image {
   width: 100%;
-  height: auto;
-  margin-top: -40px; }
+  height: auto; }
 
 .intro-image-absolute {
   max-width: none;
