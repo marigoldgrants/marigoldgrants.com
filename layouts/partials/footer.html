@@ -5,6 +5,12 @@
         <div class="footer-inner">
           <h3 class="footer-title">{{.Site.Title}}</h3>
           <ul>
+            <li>
+              <i class="far fa-edit"></i>
+              <i class="fab fa-500px"></i>
+            </li>
+          </ul>
+          <!-- <ul>
             {{ $currentPage := . }}
             {{ range .Site.Menus.footer }}
             <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
@@ -13,7 +19,7 @@
               </a>
             </li>
             {{end}}
-          </ul>
+          </ul> -->
         </div>
       </div>
     </div>

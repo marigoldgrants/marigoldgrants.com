@@ -13,4 +13,4 @@ We believe in using a storytelling approach to develop proposals that capture th
 
 Marigold Grant Writing & Consulting, LLC was founded in 2020 by Jessica Chevis and is based in Baton Rouge, Louisiana. Jessica has worked in the nonprofit sector for more than 12 years and as a grant professional and proposal writer for the past eight years. She is Grant Professional Certified by the Grant Professionals Certification Institute.
 
-More about our team \[link\]
+[More about our team](/about)

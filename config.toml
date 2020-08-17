@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Marigold Grant Writing & Consulting, LLC"
+title = "© Copyright 2020 Marigold Grant Writing & Consulting, LLC"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -33,8 +33,8 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
-      url = "/team/"
+      name = "About"
+      url = "/about/"
       weight = 2
 
   # Footer Menu

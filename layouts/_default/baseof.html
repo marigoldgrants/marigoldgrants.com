@@ -10,6 +10,7 @@
   {{ block "meta_tags" . }}{{end}}
   <link rel="icon" href="{{ "favicon-32x32.png" | relURL }}">
 
+  <script src="https://use.fontawesome.com/082fd1502a.js"></script>
   <!-- CSS-->
   {{ if .Site.IsServer }}
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath" "css/style.css" "enableSourceMap" true) }}
@@ -35,7 +36,7 @@
   </div>
 
   {{ partial "footer.html" . }}
-  {{ partial "sub-footer.html" . }}
+  <!-- {{ partial "sub-footer.html" . }} -->
 
   {{ $scripts := resources.Get "js/scripts.js" }}
 
