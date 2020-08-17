@@ -1,17 +1,17 @@
 [
   {
     "title": "Research",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "Finding grant opportunities",
     "image": "images/features/search-dollar-solid.svg"
   },
   {
     "title": "Writing",
-    "description": "All members of our team are certified accountants.",
+    "description": "Grant proposals and supporting materials",
     "image": "images/features/pen-nib-solid.svg"
   },
   {
     "title": "Editing",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "You bet we edit!",
     "image": "images/features/edit-regular.svg"
   }
 ]
