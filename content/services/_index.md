@@ -29,6 +29,6 @@ We provide editing and feedback on your early drafts of a proposal and serve as 
 
 #### **Rates**
 
-Since each project is unique, rates vary per project and per service requested. It’s important for our team to have a thorough understanding of your project, via an initial consultation, so that we can provide you with an appropriate quote. To request an initial consultation, please contact us using [this form](contact "Contact") or by emailing [info@marigoldgrants.com](mailto:info@marigoldgrants.com).
+Since each project is unique, rates vary per project and per service requested. It’s important for our team to have a thorough understanding of your project, via an initial consultation, so that we can provide you with an appropriate quote. To request an initial consultation, please contact us using [this form](../contact "Contact") or by emailing [info@marigoldgrants.com](mailto:info@marigoldgrants.com).
 
 Please note that we do not work on commission, as this is considered unethical by most funders and professional organizations, including the Grant Professionals Association and Association of Fundraising Professionals.
