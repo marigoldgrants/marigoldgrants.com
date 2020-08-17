@@ -28,6 +28,7 @@
 @import 'components/strip';
 @import 'components/whitebox';
 @import 'components/feature';
+@import 'components/contact';
 
 // Pages
 @import 'pages/home';
@@ -43,6 +44,8 @@ body {
     line-height: 1.2;
   }
 }
+
+
 
 // Display breakpoints for DEV
 {{ if .Site.IsServer }}

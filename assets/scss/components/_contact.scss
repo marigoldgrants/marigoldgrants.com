@@ -1,0 +1,21 @@
+// contact form
+form {
+    display: grid;
+    label {
+      display: none;
+    }
+    input,
+    textarea {
+      width: 100%;
+      padding: 1rem;
+      margin-bottom: 2rem;
+    }
+    button {
+      font-weight: 600;
+      padding: 2rem;
+      line-height: 1.5;
+      color: #fff;
+      background-color: $primary;
+      border: 3px solid $primary;
+    }
+  }

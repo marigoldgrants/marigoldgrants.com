@@ -4589,6 +4589,23 @@ ol {
     margin-bottom: 0;
     margin-top: auto; }
 
+form {
+  display: grid; }
+  form label {
+    display: none; }
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 2rem; }
+  form button {
+    font-weight: 600;
+    padding: 2rem;
+    line-height: 1.5;
+    color: #fff;
+    background-color: #486A6F;
+    border: 3px solid #486A6F; }
+
 .team-summary {
   display: flex;
   flex-wrap: wrap;
