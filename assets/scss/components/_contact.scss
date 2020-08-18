@@ -1,14 +1,11 @@
 // contact form
 form {
     display: grid;
-    label {
-      display: none;
-    }
     input,
     textarea {
       width: 100%;
       padding: 1rem;
-      margin-bottom: 2rem;
+      margin: 0.5rem 0 2rem 0; 
     }
     button {
       font-weight: 600;
@@ -17,5 +14,8 @@ form {
       color: #fff;
       background-color: $primary;
       border: 3px solid $primary;
+    }
+    label {
+      color: #5c5a5a
     }
   }

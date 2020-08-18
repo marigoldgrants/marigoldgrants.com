@@ -1,5 +1,9 @@
 a {
   color: $primary;
+  :hover {
+    color: $link-hover-color;
+    text-decoration: none;
+  }
 }
 img {
   max-width: 100%;
@@ -14,6 +18,7 @@ p {
 h1 {
   font-size: 20px;
   font-family: $font-family-heading;
+  font-weight: 900;
   line-height: 1.2;
   margin-bottom: 20px;
   @include media-breakpoint-up(md) {

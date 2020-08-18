@@ -12,6 +12,10 @@
   }
   a {
     text-decoration: underline;
+    :hover, :focus {
+      color: $link-hover-color;
+      text-decoration: none;
+    }
   }
   p {
     font-family: $font-family-base;
