@@ -1,17 +1,17 @@
 [
   {
     "title": "Research",
-    "description": "Finding grant opportunities",
+    "description": "We find grant opportunities that align with your mission and programs.",
     "image": "images/features/search-dollar-solid.svg"
   },
   {
     "title": "Writing",
-    "description": "Grant proposals and supporting materials",
+    "description": "We collaborate with your team to write grant proposals and related materials.",
     "image": "images/features/pen-nib-solid.svg"
   },
   {
     "title": "Editing",
-    "description": "You bet we edit!",
+    "description": "We edit, copy edit, and proofread your existing proposal drafts.",
     "image": "images/features/edit-regular.svg"
   }
 ]
