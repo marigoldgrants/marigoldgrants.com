@@ -31,4 +31,4 @@ Since each project is unique, rates vary per project and per service requested. 
 
 **To request a free initial consultation, please contact us using** [**this form**](../contact "Contact Form") **or by emailing** [**info@marigoldgrants.com**](mailto:info@marigoldgrants.com "Email")**. You can expect a response within two business days.**
 
-Please note that we do not work on commission, as this is considered unethical by most funders and professional organizations, including the Grant Professionals Association and Association of Fundraising Professionals.
+_Please note that we do not work on commission, as this is considered unethical by most funders and professional organizations, including the Grant Professionals Association and Association of Fundraising Professionals._
