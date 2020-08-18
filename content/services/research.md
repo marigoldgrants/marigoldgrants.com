@@ -5,4 +5,4 @@ featured: true
 weight: "2"
 
 ---
-We use a variety of sources to conduct grant prospect research, which includes finding new grant opportunities that align with your mission and programs.
+We use a variety of sources to conduct grant prospect research, which includes finding new foundation and corporate grant opportunities that align with your mission and programs.
