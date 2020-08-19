@@ -6,4 +6,4 @@ menu:
   main: {}
 
 ---
-For more information about our services or to schedule an initial consultation, please contact us using the form below. We look forward to hearing from you!
+For more information about our services or to schedule an initial consultation, please fill out the form below. We look forward to hearing from you!
