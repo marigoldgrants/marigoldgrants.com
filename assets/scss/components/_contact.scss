@@ -1,6 +1,6 @@
 // contact form
 form {
-    display: grid;
+    // display: grid;
     input,
     textarea {
       width: 100%;
@@ -12,9 +12,9 @@ form {
       font-weight: 600;
       padding: 1rem;
       line-height: 1.5;
-      color: $black;
-      background-color: $marigold;
-      border: 3px solid $marigold;
+      color: #fff;
+      background-color: $black;
+      // border: 3px solid $marigold;
       cursor: pointer;
       font-size: 17px; 
     }
