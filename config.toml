@@ -15,15 +15,18 @@ theme = "hugo-serif-theme"
     alt = "Growing your organization’s grant funding"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "Located in Baton Rouge, Louisiana, we partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
+    meta_title = "Marigold Grant Writing & Consulting: Growing Your Organization’s Grant Funding"
+    meta_og_title = "Marigold Grant Writing & Consulting: Growing Your Organization’s Grant Funding"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_url = "https://marigoldgrants.com"
+    meta_og_image = "https://marigoldgrants.com/images/marigold-meta-image.png"
+    meta_og_description = "Located in Baton Rouge, Louisiana, we partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_url = "summary_large_image"
+    meta_twitter_image = "https://marigoldgrants.com/images/marigold-meta-image.png"
+    # meta_twitter_site = "@zerostaticio"
+    # meta_twitter_creator = "@zerostaticio"
 
 [menu]
   # Main Menu

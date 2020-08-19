@@ -4443,11 +4443,9 @@ ol {
         width: 80%; } }
   .intro h2 {
     width: 80%;
-    font-size: 1.2rem;
     line-height: 1.4;
     margin-bottom: 30px;
-    color: #2f2f41;
-    font-family: Roboto, sans-serif; }
+    color: #2f2f41; }
   .intro p {
     width: 80%;
     font-weight: light;
