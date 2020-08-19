@@ -6,14 +6,17 @@ form {
       width: 100%;
       padding: 1rem;
       margin: 0.5rem 0 2rem 0; 
+      font-size: inherit;
     }
     button {
       font-weight: 600;
       padding: 1rem;
       line-height: 1.5;
-      color: #fff;
-      background-color: $primary;
-      border: 3px solid $primary;
+      color: $black;
+      background-color: $marigold;
+      border: 3px solid $marigold;
+      cursor: pointer;
+      font-size: 17px; 
     }
     label {
       color: #5c5a5a

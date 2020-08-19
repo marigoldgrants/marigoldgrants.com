@@ -4,6 +4,7 @@ $black: #2f2f41;
 $white: #ffffff;
 $steel: rgb(92, 90, 90);
 $ghost: #f4f5fb;
+$marigold: #ffe26a;
 
 // Links
 $link-color: $primary;
@@ -12,7 +13,5 @@ $link-hover-color: lighten($primary, 20%);
 $link-hover-decoration: underline;
 
 // Fonts
-// $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-// $font-family-heading: 'DM Serif Display', serif, -apple-system;
 $font-family-base: Roboto, sans-serif;
-$font-family-heading: Lato, sans-serif; 
+$font-family-heading: Bitter, sans-serif; 

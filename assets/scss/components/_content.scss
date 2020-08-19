@@ -10,13 +10,13 @@
       color: $steel;
     }
   }
-  a {
-    text-decoration: underline;
-    :hover, :focus {
-      color: $link-hover-color;
-      text-decoration: none;
-    }
-  }
+  // a {
+  //   text-decoration: underline;
+  //   // :hover, :focus {
+  //   //   color: $link-hover-color;
+  //   //   text-decoration: none;
+  //   // }
+  // }
   p {
     font-family: $font-family-base;
     color: $steel;
