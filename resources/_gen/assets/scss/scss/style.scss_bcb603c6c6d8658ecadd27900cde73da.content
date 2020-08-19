@@ -3960,7 +3960,7 @@ table {
 
 a {
   color: #486A6F; }
-  a :hover, a :focus {
+  a:hover, a:focus {
     color: #77a0a6;
     text-decoration: none; }
 
@@ -4461,7 +4461,9 @@ ol {
 .intro-image {
   width: 100%;
   height: auto; }
-
+  @media (max-width: 767.98px) {
+    .intro-image {
+      width: 265px; } }
 .intro-image-absolute {
   max-width: none;
   width: 60%;
@@ -4487,6 +4489,11 @@ ol {
   display: none; }
   @media (min-width: 768px) {
     .intro-image-hide-mobile {
+      display: block; } }
+#marigold {
+  display: none; }
+  @media (min-width: 768px) {
+    #marigold {
       display: block; } }
 .strip {
   background: white;

@@ -2,6 +2,10 @@
   width: 100%;
   height: auto;
   // margin-top: -40px;
+
+  @include media-breakpoint-down(sm) {
+    width: 265px
+  }
 }
 .intro-image-absolute {
   max-width: none;
@@ -33,3 +37,12 @@
     display: block;
   }
 }
+
+// hide the marigold image on mobile
+#marigold {
+  display: none; 
+  @include media-breakpoint-up(md) {
+    display: block
+  }
+}
+
