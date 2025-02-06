@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "© 2024 Marigold Grant Writing & Consulting, LLC"
+title = "© 2025 Marigold Grant Writing & Consulting, LLC"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -15,13 +15,13 @@ theme = "hugo-serif-theme"
     alt = "Growing your organization’s grant funding"
 
   [params.homepage_meta_tags]
-    meta_description = "Located in Baton Rouge, Louisiana, we partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
+    meta_description = "We partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
     meta_title = "Marigold Grant Writing & Consulting: Growing Your Organization’s Grant Funding"
     meta_og_title = "Marigold Grant Writing & Consulting: Growing Your Organization’s Grant Funding"
     meta_og_type = "website"
     meta_og_url = "https://www.marigoldgrants.com"
     meta_og_image = "https://www.marigoldgrants.com/images/marigold-meta-image.png"
-    meta_og_description = "Located in Baton Rouge, Louisiana, we partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
+    meta_og_description = "We partner with nonprofit organizations to assist in preparing grant applications, proposals, and related collateral for institutional and individual donors."
     meta_twitter_card = "summary"
     meta_twitter_url = "summary_large_image"
     meta_twitter_image = "https:www.//marigoldgrants.com/images/marigold-meta-image.png"
