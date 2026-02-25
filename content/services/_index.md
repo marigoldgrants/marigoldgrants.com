@@ -15,13 +15,12 @@ We collaborate with your team to develop and write donor-facing materials, inclu
 
 * Grant proposals
 * Grant pre-proposal and funder cultivation materials, such as letters of intent, one-sheeters, and white papers
-* Grant reports
 
 ## Editing, copy editing, and proofreading
 
 We edit and provide feedback on early drafts of your proposal and serve as a second set of eyes on your final draft. We deliver quick turnarounds for editing, copy editing, and proofreading requests for the following types of materials:
 
-* Grant proposals, reports, and related collateral
+* Grant proposals
 * Grant pre-proposals and funder cultivation materials, such as letters of intent, one-sheeters, and white papers
 * Other fundraising collateral
 
