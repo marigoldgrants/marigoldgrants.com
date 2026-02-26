@@ -1,5 +1,6 @@
 ---
 title: N/A
+sb_model: TeamMember
 date: 2018-11-19T10:47:58.000+10:00
 image: ''
 jobtitle: ''

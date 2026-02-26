@@ -28,9 +28,3 @@ HUGO_VERSION = "0.148.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[dev]
-command = "hugo server -D -E -F"
-targetPort = 1313
-port = 8888
-publish = "public"

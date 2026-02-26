@@ -1,5 +1,6 @@
 ---
 title: Writing
+sb_model: Service
 date: 2018-11-28T15:14:54.000+10:00
 featured: true
 
