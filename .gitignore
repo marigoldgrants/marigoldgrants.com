@@ -6,10 +6,3 @@ resources/_gen/
 
 # Local Netlify folder
 .netlify
-
-# Node / Netlify Visual Editor (Stackbit)
-node_modules/
-.stackbit/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*

@@ -1,0 +1,62 @@
+backend:
+  name: git-gateway
+  branch: master
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - name: home
+        label: Home
+        file: content/_index.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: intro_image, label: Intro Image, widget: image, required: false }
+          - { name: intro_image_absolute, label: Intro Image Absolute, widget: boolean, required: false, default: false }
+          - { name: intro_image_hide_on_mobile, label: Hide Intro Image on Mobile, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
+      - name: about
+        label: About
+        file: content/about/_index.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: intro_image, label: Intro Image, widget: image, required: false }
+          - { name: intro_image_absolute, label: Intro Image Absolute, widget: boolean, required: false, default: false }
+          - { name: intro_image_hide_on_mobile, label: Hide Intro Image on Mobile, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
+      - name: services_page
+        label: Services Page
+        file: content/services/_index.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: intro_image, label: Intro Image, widget: image, required: false }
+          - { name: intro_image_absolute, label: Intro Image Absolute, widget: boolean, required: false, default: false }
+          - { name: intro_image_hide_on_mobile, label: Hide Intro Image on Mobile, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
+      - name: contact
+        label: Contact
+        file: content/contact.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: date, label: Date, widget: datetime }
+          - { name: body, label: Body, widget: markdown }
+      - name: not_found
+        label: 404 Page
+        file: content/404/_index.md
+        fields:
+          - { name: title, label: Title, widget: string }
+
+  - name: services
+    label: Services
+    folder: content/services
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: date, label: Date, widget: datetime }
+      - { name: featured, label: Featured, widget: boolean, required: false, default: false }
+      - { name: body, label: Body, widget: markdown }
+

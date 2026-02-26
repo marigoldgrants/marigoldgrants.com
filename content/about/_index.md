@@ -1,6 +1,5 @@
 ---
 title: About
-sb_model: About
 intro_image: images/headshot.jpeg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
