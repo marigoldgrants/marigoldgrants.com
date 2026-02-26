@@ -3,3 +3,6 @@ public/
 resources/_gen/
 .hugo_build.lock
 .forestry/
+
+# Local Netlify folder
+.netlify
