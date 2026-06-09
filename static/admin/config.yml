@@ -63,11 +63,28 @@ collections:
 
   - name: services
     label: Services
-    folder: content/services
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { name: title, label: Title, widget: string }
-      - { name: date, label: Date, widget: datetime }
-      - { name: featured, label: Featured, widget: boolean, required: false, default: false }
-      - { name: body, label: Body, widget: markdown }
+    files:
+      - name: service_research
+        label: Research
+        file: content/services/research.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: date, label: Date, widget: datetime }
+          - { name: featured, label: Featured, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
+      - name: service_writing
+        label: Writing
+        file: content/services/writing.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: date, label: Date, widget: datetime }
+          - { name: featured, label: Featured, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
+      - name: service_editing
+        label: Editing
+        file: content/services/editing.md
+        fields:
+          - { name: title, label: Title, widget: string }
+          - { name: date, label: Date, widget: datetime }
+          - { name: featured, label: Featured, widget: boolean, required: false, default: false }
+          - { name: body, label: Body, widget: markdown }
