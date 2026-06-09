@@ -18,6 +18,18 @@ collections:
           - { name: intro_image_absolute, label: Intro Image Absolute, widget: boolean, required: false, default: false }
           - { name: intro_image_hide_on_mobile, label: Hide Intro Image on Mobile, widget: boolean, required: false, default: false }
           - { name: body, label: Body, widget: markdown }
+      - name: home_features
+        label: Home Features
+        file: data/features.json
+        fields:
+          - name: features
+            label: Feature Cards
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { name: title, label: Title, widget: string }
+              - { name: description, label: Description, widget: text }
+              - { name: image, label: Icon, widget: image }
       - name: about
         label: About
         file: content/about/_index.md
@@ -59,4 +71,3 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: featured, label: Featured, widget: boolean, required: false, default: false }
       - { name: body, label: Body, widget: markdown }
-
