@@ -1,0 +1,172 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #eef0fb;
+  font-family: "Roboto", sans-serif;
+  color: #5c5a5a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.decap-home-features-preview {
+  min-height: 100vh;
+  background: #eef0fb;
+}
+
+.strip {
+  width: 100%;
+}
+
+.strip-grey {
+  background: #eef0fb;
+}
+
+.container {
+  width: 100%;
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -16px;
+  margin-right: -16px;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.col-12,
+.col-md-6,
+.col-lg-4 {
+  width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.mb-2 {
+  margin-bottom: 32px;
+}
+
+.pt-6 {
+  padding-top: 72px;
+}
+
+.pb-6 {
+  padding-bottom: 72px;
+}
+
+.feature {
+  height: 100%;
+  min-height: 440px;
+  border: 1px solid #ececec;
+  border-radius: 3px;
+  padding: 48px 36px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.feature-image {
+  flex: 0 0 auto;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.feature-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.feature a {
+  color: #5d7f87;
+  text-decoration: underline;
+}
+
+.feature-title {
+  margin: 0;
+  font-family: "Bitter", serif;
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: 0;
+}
+
+.feature-content {
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+
+.feature-content p {
+  margin: 0;
+  font-size: 28px;
+  line-height: 1.55;
+  font-weight: 400;
+}
+
+@media (min-width: 768px) {
+  .col-md-6 {
+    width: 50%;
+  }
+
+  .pt-md-7 {
+    padding-top: 84px;
+  }
+
+  .pb-md-10 {
+    padding-bottom: 120px;
+  }
+}
+
+@media (min-width: 992px) {
+  .col-lg-4 {
+    width: 33.333333%;
+  }
+}
+
+@media (max-width: 991px) {
+  .feature {
+    min-height: 0;
+  }
+
+  .feature-title {
+    font-size: 48px;
+  }
+
+  .feature-content p {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 575px) {
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .feature {
+    padding: 36px 24px;
+  }
+
+  .feature-title {
+    font-size: 38px;
+  }
+
+  .feature-content p {
+    font-size: 18px;
+  }
+}
